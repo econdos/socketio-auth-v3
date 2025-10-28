@@ -1,6 +1,6 @@
 {
   "name": "socketio-auth-v3",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Authentication for socket.io v3",
   "main": "index.js",
   "directories": {
